@@ -6,8 +6,7 @@
   "scripts": {
     "start_server": "node server.js",
     "start_client": "cd client && npm run dev",
-    "start_dev": "concurrently \"npm run start_server\" \"npm run start_client\"",
-    "postinstall": "cd client && npm install"
+    "start_dev": "concurrently \"npm run start_server\" \"npm run start_client\""
   },
   "author": "Artur Poffo",
   "license": "ISC",

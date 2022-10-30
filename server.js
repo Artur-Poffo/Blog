@@ -72,4 +72,4 @@ app.get("/api", (req, res) => {
   res.send(posts)
 })
 
-app.listen(process.env.PORT, () => console.log("Server Running"))
+app.listen(process.env.PORT || 3000, () => console.log("Server Running"))
