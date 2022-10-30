@@ -4,7 +4,7 @@
   "description": "Projeto de estudo Blog Pessoal",
   "main": "server.js",
   "scripts": {
-    "start_server": "nodemon app.js",
+    "start_server": "node app.js",
     "start_client": "cd client && npm run dev",
     "start_dev": "concurrently \"npm run start_server\" \"npm run start_client\"",
     "postinstall": "cd client && npm install"
