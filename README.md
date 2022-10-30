@@ -1,6 +1,6 @@
 # Blog:
 
-> Status: Vesão 1.0.0 ✨
+> Status: Versão 1.0.0 ✨
 
 ### Tecnologias:
 
@@ -17,3 +17,5 @@
 ## Créditos:
 
 > A interface do projeto e todos os posts foram retirados do blog: <a href="https://blog.lsantos.dev" >Lucas Santos.</a>
+
+**Link para o projeto: <a href="https://blogproject.onrender.com" >BlogProject</a>**
